@@ -1,5 +1,6 @@
 //= require jquery.dataTables.min
 //= require jquery.datatables.fnSetFilteringDelay
+//= require_self
 
 root = exports ? this
   
